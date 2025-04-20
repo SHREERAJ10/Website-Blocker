@@ -22,7 +22,7 @@ It works by modifying your system's `hosts` file to redirect selected sites.
 
      macOS/Linux: /etc/hosts
 
-3.Make sure the script can read and write to the hosts file
+3. Make sure the script can read and write to the hosts file
 
      You might need to run it as admin or use sudo
 
